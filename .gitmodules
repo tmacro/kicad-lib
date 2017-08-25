@@ -1,0 +1,18 @@
+[submodule "stormbard_keyboard.pretty"]
+	path = stormbard_keyboard.pretty
+	url = https://github.com/stormbard/Keyboard.pretty.git
+[submodule "doragasu-kicad-lib"]
+	path = doragasu-kicad-lib
+	url = https://github.com/doragasu/doragasu-kicad-lib.git
+[submodule "keebs.pretty"]
+	path = keebs.pretty
+	url = https://github.com/egladman/keebs.pretty.git
+[submodule "tmk_keyboard_parts.pretty"]
+	path = tmk_keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty.git
+[submodule "kicad_lib_tmk"]
+	path = kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git
+[submodule "WS2812B.pretty"]
+	path = WS2812B.pretty
+	url = https://github.com/madworm/WS2812B.pretty.git
